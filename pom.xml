@@ -8,7 +8,7 @@
 
     <scm>
         <developerConnection>scm:git:ssh://git@github-perso.com/jbclaramonte/testing</developerConnection>
-        <tag>basic-app-1.1</tag>
+        <tag>1.2-release</tag>
     </scm>
 
     <distributionManagement>
