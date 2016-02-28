@@ -6,4 +6,6 @@ making some changes
 
 working in the master branch on the 1.3-SNAPSHOT
  
-working in the master branch on the 1.4-SNAPSHOT 
+working in the master branch on the 1.4-SNAPSHOT
+ 
+working on 1.4.1 bugfix
