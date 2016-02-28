@@ -4,11 +4,11 @@
 
     <groupId>spring-boot-basic</groupId>
     <artifactId>basic-app</artifactId>
-    <version>1.4-SNAPSHOT</version>
+    <version>1.3-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:ssh://git@github-perso.com/jbclaramonte/testing</developerConnection>
-        <tag>1.3-release</tag>
+        <tag>basic-app-1.1</tag>
     </scm>
 
     <distributionManagement>
