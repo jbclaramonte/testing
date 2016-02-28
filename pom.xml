@@ -4,7 +4,7 @@
 
     <groupId>spring-boot-basic</groupId>
     <artifactId>basic-app</artifactId>
-    <version>1.1</version>
+    <version>1.1-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:ssh://git@github-perso.com/jbclaramonte/testing</developerConnection>
@@ -15,12 +15,12 @@
         <repository>
             <id>artifactory-central</id>
             <name>libs-release</name>
-            <url>http://104.197.44.75/artifactory/libs-release</url>
+            <url>http://104.197.44.75/artifactory/libs-release-local</url>
         </repository>
         <snapshotRepository>
             <id>artifactory-snapshots</id>
             <name>libs-snapshot</name>
-            <url>http://104.197.44.75/artifactory/libs-snapshot</url>
+            <url>http://104.197.44.75/artifactory/libs-snapshot-local</url>
         </snapshotRepository>
     </distributionManagement>
 
